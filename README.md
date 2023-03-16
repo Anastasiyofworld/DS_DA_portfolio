@@ -47,7 +47,7 @@
 
 Используемые технологии: 
 - язык: `Python`
-- библиотеки: `Pandas`, `sklearn`, `matplotlib`.
+- библиотеки: `Pandas`, `sklearn (Scikit-Learn)`, `matplotlib`.
 - модели машинного обучения: решающего дерева, случайного леса, логистической регрессии
 
 ### **[Проект 07. Отток банковских клиентов.](https://github.com/Anastasiyofworld/DS_DA_portfolio/blob/main/project_07_Churn_of_bank_customers.ipynb)**
@@ -56,7 +56,7 @@
 
 Используемые технологии:
 - язык: `Python`
-- библиотеки: `Numpy`, `Pandas`, `sklearn`, `matplotlib`, `random`.
+- библиотеки: `Numpy`, `Pandas`, `sklearn (Scikit-Learn)`, `matplotlib`, `random`.
 - модели машинного обучения: решающего дерева, случайного леса, логистической регрессии
 
 ### **[Проект 08. Выбор локации для скважины.](https://github.com/Anastasiyofworld/DS_DA_portfolio/blob/main/project_08_Choosing_the_location_for_the_well.ipynb)**
@@ -65,5 +65,5 @@
 
 Используемые технологии:
 - язык: `Python`
-- библиотеки: `Numpy`, `Pandas`, `sklearn`, `matplotlib`, `random`.
+- библиотеки: `Numpy`, `Pandas`, `sklearn (Scikit-Learn)`, `matplotlib`, `random`.
 - модели машинного обучения: логистической регрессии
