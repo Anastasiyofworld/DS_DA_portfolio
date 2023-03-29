@@ -6,7 +6,7 @@
 
 Используемые технологии: 
 - язык: `Python` 
-- библиотеки: `Pandas`.
+- библиотеки: `pandas`.
 
 
 ### **[Проект 02. Исследование надёжности заёмщиков.](https://github.com/Anastasiyofworld/DS_DA_portfolio/blob/main/project_02_Reliability%20of%20borrowers.ipynb)**
@@ -15,7 +15,7 @@
 
 Используемые технологии: 
 - язык: `Python`
-- библиотеки: `Pandas`, `Numpy`, `pymystem3`, `collections`, `matplotlib`.
+- библиотеки: `pandas`, `numpy`, `pymystem3`, `collections`, `matplotlib`.
 
 ### **[Проект 03. Исследование объявлений о продаже квартир.](https://github.com/Anastasiyofworld/DS_DA_portfolio/blob/main/project_03_Ads_for_the_sale_of_apartments.ipynb)**
 
@@ -23,7 +23,7 @@
 
 Используемые технологии: 
 - язык: `Python`
-- библиотеки: `Pandas`, `pymystem3`, `collections`, `matplotlib`.
+- библиотеки: `pandas`, `pymystem3`, `collections`, `matplotlib`.
 
 ### **[Проект 04. Анализ тарифов федерального оператора мобильной связи.](https://github.com/Anastasiyofworld/DS_DA_portfolio/blob/main/project_04_Analysis_of_tariffs_of_the_federal_mobile_operator.ipynb)**
 
@@ -31,7 +31,7 @@
 
 Используемые технологии: 
 - язык: `Python`
-- библиотеки: `Pandas`, `Numpy`, `SciPy`, `matplotlib`.
+- библиотеки: `pandas`, `numpy`, `scipy`, `matplotlib`.
 
 ### **[Проект 05. Исследование факторов, определяющих успешность компьютерных игр.](https://github.com/Anastasiyofworld/DS_DA_portfolio/blob/main/project_05_Factors_determining_the_success_of_computer_games.ipynb)**
 
@@ -39,7 +39,7 @@
 
 Используемые технологии: 
 - язык: `Python`
-- библиотеки: `Pandas`, `Numpy`, `SciPy`, `matplotlib`.
+- библиотеки: `pandas`, `numpy`, `scipy`, `matplotlib`.
 
 ### **[Проект 06. Рекомендация тарифов клиентам федерального оператора сотовой связи.](https://github.com/Anastasiyofworld/DS_DA_portfolio/blob/main/project_06_Tariff_recommendations_to_customers_of_the_mobile_operator.ipynb)**
 
@@ -47,7 +47,7 @@
 
 Используемые технологии: 
 - язык: `Python`
-- библиотеки: `Pandas`, `sklearn (Scikit-Learn)`, `matplotlib`.
+- библиотеки: `pandas`, `sklearn (scikit-learn)`, `matplotlib`.
 - модели машинного обучения: решающего дерева, случайного леса, логистической регрессии
 
 ### **[Проект 07. Отток банковских клиентов.](https://github.com/Anastasiyofworld/DS_DA_portfolio/blob/main/project_07_Churn_of_bank_customers.ipynb)**
@@ -56,7 +56,7 @@
 
 Используемые технологии:
 - язык: `Python`
-- библиотеки: `Numpy`, `Pandas`, `sklearn (Scikit-Learn)`, `matplotlib`, `random`.
+- библиотеки: `numpy`, `pandas`, `sklearn (scikit-learn)`, `matplotlib`, `random`.
 - модели машинного обучения: решающего дерева, случайного леса, логистической регрессии
 
 ### **[Проект 08. Выбор локации для скважины.](https://github.com/Anastasiyofworld/DS_DA_portfolio/blob/main/project_08_Choosing_the_location_for_the_well.ipynb)**
@@ -65,5 +65,77 @@
 
 Используемые технологии:
 - язык: `Python`
-- библиотеки: `Numpy`, `Pandas`, `sklearn (Scikit-Learn)`, `matplotlib`, `random`.
+- библиотеки: `numpy`, `pandas`, `sklearn (scikit-learn)`, `matplotlib`, `random`.
 - модели машинного обучения: логистической регрессии
+
+______________________________________________________________________
+### **[Проект 09. Восстановление золота из руды.]()**
+
+**Цель проекта:** создать модель, предсказывающую коэффициент восстановления золота из золотосодержащей руды для оптимизации производства, чтобы не запускать предприятие с убыточными характеристиками.
+
+Используемые технологии:
+- язык: `Python`
+- библиотеки: `numpy`, `pandas`, `sklearn (scikit-learn)`, `matplotlib`, `seaborn`, `sidetable`.
+- модели машинного обучения: решающего дерева, случайного леса, линейной регрессии.
+
+### **[Проект 10. Защита персональных данных клиентов.]()**
+
+**Цель проекта:** разработать метод преобразования персональной информации, не ухудшающий качество моделей машинного обучения. 
+
+Используемые технологии:
+- язык: `Python`
+- библиотеки: `numpy`, `pandas`, `sklearn (scikit-learn)`, `matplotlib`.
+
+### **[Проект 11. Определение стоимости автомобиля.]()**
+
+**Цель проекта:** построить модель для определения стоимости автомобиля (важны качество и скорость предсказания, а так же время обучения).
+
+Используемые технологии:
+- язык: `Python`
+- библиотеки: `numpy`, `pandas`, `sklearn (scikit-learn)`, `matplotlib`, `seaborn`, `time`, `sidetable`, `inflection`, `category_encoders`, `lightgbm`.
+- модели машинного обучения: случайного леса, линейной регрессии, градиентного бустинга. 
+
+### **[Проект 12. Прогнозирование заказов такси (работа с временными рядами).]()**
+
+**Цель проекта:** построить модель, прогнозирующую количество заказов такси в аэропортах на следующий час для привлечения большего количаства водителей в период пиковой загрузки.
+
+Используемые технологии:
+- язык: `Python`
+- библиотеки: `numpy`, `pandas`, `sklearn (scikit-learn)`, `matplotlib`, `seaborn`, `statsmodels`, `lightgbm`.
+- модели машинного обучения: случайного леса, линейной регрессии, градиентного бустинга.
+
+### **[Проект 13. Поиск токсичных комментариев (машинное обучение для текстов) (also available in English).]()**
+
+**Цель проекта:** обучить модель классифицировать комментарии на позитивные и негативные.
+
+Используемые технологии:
+- язык: `Python`
+- библиотеки: `numpy`, `pandas`, `sklearn (scikit-learn)`, `matplotlib`, `langdetect`, `nltk`, `re`, `sidetable`, `tqdm`.
+- методы работы с текстом: лемматизация, масштабирование с помощью `TF-IDF`
+- модели машинного обучения: логистической регрессии, линейных опорных векторов, ансамбль смешивания.
+
+### **[Проект 14. Определение возраста человека по фотографии.]()**
+
+**Цель проекта:** построить модель на основе `ResNet50`, которая по фотографии определит приблизительный возраст человека.
+
+Используемые технологии:
+- язык: `Python`
+- библиотеки: `numpy`, `pandas`, `matplotlib`, `tensorflow`
+
+### **[Проект 15. Прогноз оттока клиентов оператора связи.]()**
+
+**Цель проекта:** обучить модель прогнозировать отток клиентов на персональных данных клиентов, информации об их тарифах и договорах.
+
+Используемые технологии:
+- язык: `Python`
+- библиотеки: `numpy`, `pandas`, `sklearn (scikit-learn)`, `matplotlib`, `sidetable`, `inflection`, `catboost`, `lightgbm`.
+- модели машинного обучения: случайного леса, логистической регрессии, градиентного бустинга, стекинг. 
+
+### **[Проект 16. Симпсоны.]()**
+
+**Цель проекта:** классифицировать персонажей, проживающих в Спрингфилде. 
+
+Используемые технологии:
+- язык: `Python`
+- библиотеки: `time`, `pathlib`, `numpy`, `pandas`, `pickle`, `PIL`, `matplotlib`, `seaborn`, `tqdm`, `sklearn`, `torch`, `torchvision`
+- нейронная сеть: `AlexNet`
