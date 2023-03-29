@@ -142,6 +142,7 @@
 ### **[Проект 17. Телеграм-бот для трансфера стиля изображения](https://github.com/Anastasiyofworld/Telegram_bot_with_style_transfering_model)**
 
 **Цель проекта:** создать модель, позволяющую пользователям переносить стиль с одного изображения на другое, реализовать в виде телеграм-бота
+
 Используемые технологии:
 - язык: `Python`
 - библиотеки: `numpy`, `PIL`, `torch`, `torchvision`, `torch_snippets`, `logging`, `telegram`, `asyncio`, `concurrent`, `functools`, `os`, `multiprocessing`
